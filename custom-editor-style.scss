@@ -1,0 +1,17 @@
+$red:#790B0E;
+$gray:#3C3C3B;
+$gold:#F29100;
+$muted-gold:#92260c;
+
+$light-gray:#9C9B9B;
+$dark-gray:#9C9B9B;
+
+body#tinymce.wp-editor { 
+  font-size: 18px;
+  font-weight: 300;
+  font-family: 'Source Sans Pro', sans-serif;
+  line-height: 28px;
+	h1:before, h1:after, h2:before, h2:after {content: " \2014 \00a0"; color:$gold;}
+h1 {color:$red; font-size: 22px; font-weight:bold; text-transform:uppercase;}
+h2 {color:$red; font-size: 20px; font-weight:bold; text-transform:uppercase;}
+}
