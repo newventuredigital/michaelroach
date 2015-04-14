@@ -1,4 +1,4 @@
-<?php if (!is_home()) { ?> 
+<?php if (!is_home() && !is_single()) { ?> 
    <section>
     <div class="container">
       <div class="row">

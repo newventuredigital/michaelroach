@@ -1,7 +1,7 @@
 <?php get_header(); ?>
 
 <div class="content">
-	<section class="light-gray-bg">
+	<section class="">
 		<div class="container">
 			<div class="row" id="post-<?php the_ID(); ?>">
 				<div class="col-md-12">
