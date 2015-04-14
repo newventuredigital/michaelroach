@@ -22,5 +22,6 @@
 		 	</div>
 		 </div>
 	</section>
+</div>
 
 <?php get_footer(); ?>
