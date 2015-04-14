@@ -236,7 +236,7 @@ footer {padding:20px;
   transition: transform 500ms ease;
   }
 
-.master-slider-parent {margin:0;}
+.master-slider-parent {margin:0 !important;}
 
 .dark-gray-bg {background:$dark-gray;}
 .light-gray-bg {background:$light-gray;}
