@@ -17,7 +17,7 @@ Template Name: Front Page
 		 	</div>
 		 </div>
 	</section>
-</div>
+
 
 
 <?php get_footer(); ?>

@@ -38,14 +38,15 @@ section {padding:45px 0 50px;
     .date {font-weight:700;}
     .year {}
   }
+  h3.blog-title {margin:0 0 4px;
+  a {color:$gray; font-weight:700;}
+  a:hover {color:$gold;}
+  }
   .read-more {float:right;
     &:after {content: "\2192"; color:$gold;}}
 }
 
-h3.blog-title {margin:0 0 4px;
-  a {color:$gray; font-weight:700;}
-  a:hover {color:$gold;}
-}
+
 
 .cf:before,
 .cf:after {content: " "; display: table;}
