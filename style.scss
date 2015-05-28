@@ -16,7 +16,8 @@ $dark-gray:#ECECEC;
 
 $footer-gray:#9C9B9B;
 
-.gallery img {margin:0 auto 30px;}
+.gallery img {margin:0 auto 10px;}
+.gallery .caption {float:left; margin-bottom:25px; font-size:14px; color:#aaa;}
 
 @media (min-width: 1200px) {
     .container{
