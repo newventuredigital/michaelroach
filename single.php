@@ -4,7 +4,7 @@
 	<section class="">
 		<div class="container">
 			<div class="row" id="post-<?php the_ID(); ?>">
-				<div class="col-md-8">
+				<div class="col-md-10">
 					<h1><?php the_title(); ?></h1>
 					<?php if (have_posts()) : while (have_posts()) : the_post(); ?>
 						<?php the_content(); ?>
